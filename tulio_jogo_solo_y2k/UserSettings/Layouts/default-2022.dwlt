@@ -189,8 +189,8 @@ MonoBehaviour:
     y: 0
     width: 295
     height: 621
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -656,7 +656,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.43603954, y: 0.35210443, z: -0.19054227, w: 0.8060643}
     speed: 2
-    m_Value: {x: 0.43600595, y: 0.3520773, z: -0.19052759, w: 0.80600226}
+    m_Value: {x: 0.43603954, y: 0.35210443, z: -0.19054227, w: 0.8060643}
   m_Size:
     m_Target: 43.45103
     speed: 2
